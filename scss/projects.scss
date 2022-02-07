@@ -1,4 +1,6 @@
 .projects{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
     margin: 0 auto;
     max-width: 1200px;
     
@@ -13,7 +15,7 @@
     .project{
         box-shadow: rgba(0, 0, 0, 0.6) 0px 4px 12px;
         width: 350px;
-        height: 425px;
+        height: 450px;
         background-color: #EF626C;
         padding-top: 15px;
         margin: 0 auto;
@@ -51,7 +53,7 @@
            
         }
         span{
-            color: #102E4A;
+            color: black;
         }
         h1{
             //font-weight: 500;
