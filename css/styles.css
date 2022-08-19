@@ -32,12 +32,12 @@ h1, h2, h3, h4, h5, h5, h6, p {
   -webkit-box-shadow: rgba(0, 0, 0, 0.6) 0px 4px 12px;
           box-shadow: rgba(0, 0, 0, 0.6) 0px 4px 12px;
   width: 350px;
-  min-height: 420px;
+  min-height: 450px;
   background-color: #EF626C;
   padding-top: 15px;
   margin: 0 auto;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 60px;
   border-radius: 20px;
   padding-bottom: 50px;
   color: white;
